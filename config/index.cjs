@@ -8,13 +8,13 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxc8c1a44d274c0abb',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '4ea16f54a0d18c9c69d34d57790d985f',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '四川',
+  CITY: '成都',
 
   USERS: [
     {
